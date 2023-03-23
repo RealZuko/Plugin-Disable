@@ -1,0 +1,14 @@
+command /pl:
+	trigger:
+		send "&6Plugins [4] &f What, You, Looking, For"
+command /plugins:
+	trigg
+		send "&6Plugins [4] &f What, You, Looking, For"
+
+command /bukkit:plugins:
+	trigger:
+		send "&6Plugins [4] &f What, You, Looking, For"
+
+command /bukkit:pl:
+	trigger:
+		send "&6Plugins [4] &f What, You, Looking, For"
