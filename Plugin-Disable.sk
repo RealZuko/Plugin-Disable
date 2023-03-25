@@ -2,7 +2,7 @@ command /pl:
 	trigger:
 		send "&6Plugins [4] &f What, You, Looking, For"
 command /plugins:
-	trigg
+	trigger:
 		send "&6Plugins [4] &f What, You, Looking, For"
 
 command /bukkit:plugins:
